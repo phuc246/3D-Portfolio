@@ -1,8 +1,8 @@
 # 3D Interactive Portfolio
 
-A creative and immersive 3D portfolio built with **Next.js** and **Three.js**. This project showcases smooth animations, interactive 3D models, and a unique user experience to present my work and skills.
+**Live Demo:** [https://3d-portfolio-phucpins-projects.vercel.app/](https://3d-portfolio-phucpins-projects.vercel.app/)
 
-**Live Demo:** **[https://your-portfolio-link.com](https://your-portfolio-link.com)**  
+A creative and immersive 3D portfolio built with **Next.js** and **Three.js**. This project showcases smooth animations, interactive 3D models, and a unique user experience to present my work and skills.
 
 <br>
 

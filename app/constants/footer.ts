@@ -3,9 +3,9 @@ import { FooterLink } from "../types";
 export const FOOTER_LINKS: FooterLink[] = [
   {
     name: 'LinkedIn',
-    hoverText: 'Connect with me',
+    description: 'LinkedIn Profile',
     icon: 'icons/linkedin.svg',
-    url: 'https://www.linkedin.com/in/mohit-virli-4780b6112/',
+    url: 'https://www.linkedin.com/in/le-thanh-phuc',
   },
   {
     name: 'GitHub',
