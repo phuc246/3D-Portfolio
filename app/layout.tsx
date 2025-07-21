@@ -38,7 +38,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Pin Lee - Frontend Engineer",
     description: "Frontend engineer by profession, creative at heart.",
-    url: "https://mohitvirli.github.io",
+    url: "https://github.com/phuc246",
     siteName: "Pin Lee - Portfolio",
     locale: "en_US",
     type: "website",
