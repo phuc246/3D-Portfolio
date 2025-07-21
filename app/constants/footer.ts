@@ -3,7 +3,7 @@ import { FooterLink } from "../types";
 export const FOOTER_LINKS: FooterLink[] = [
   {
     name: 'LinkedIn',
-    description: 'LinkedIn Profile',
+    hoverText: 'Connect with me',
     icon: 'icons/linkedin.svg',
     url: 'https://www.linkedin.com/in/le-thanh-phuc',
   },
